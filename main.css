@@ -1,0 +1,13 @@
+* {
+    background: rgb(175, 216, 216);
+}
+
+body {
+    background-color: darkcyan;
+}
+
+#price-display {
+    display: block;
+    overflow: auto;
+    height: 600px;
+  }
